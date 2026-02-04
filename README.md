@@ -1,12 +1,60 @@
-**Full Video:** [Click here to watch](https://youtube.com/live/gHfNmY4Sfpo)
+# 💼 ModernPorfolio – Modern React Portfolio Website
 
-[![Project-4](https://github.com/user-attachments/assets/41de1831-1a6f-43ba-9b67-54b202448a27)](https://youtu.be/7Cg0QFLxL60)
+A professional fully responsive portfolio website built using React.js, Tailwind CSS, GSAP animations, and Getform.
 
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Demo App](/public/images/maxresdefault-8.jpg)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Overview
+
+ModernPorfolio is a modern single-page portfolio website designed to showcase personal projects, work experience, and technical skills in a clean and interactive layout.
+
+The website focuses on performance, responsiveness, and smooth user experience with modern frontend technologies.
+
+---
+
+## ✨ Features
+
+🎨 Clean modern UI design  
+📱 Fully responsive across devices  
+⚡ Built with React.js for fast performance  
+💎 Styled with Tailwind CSS  
+🎥 Smooth animations using GSAP  
+📩 Contact form integration with Getform  
+📂 Project showcase section  
+🧑‍💻 Experience & skills display  
+
+---
+
+## 🏗 Tech Stack
+
+- React.js  
+- Tailwind CSS  
+- GSAP Animation Library  
+- Getform Contact API  
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+npm install
+npm run dev
+```
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.  
+Fork the repo and improve features.
+
+---
+
+## ⭐ Support
+
+If you found this useful, give it a ⭐ on GitHub!
+
+---
